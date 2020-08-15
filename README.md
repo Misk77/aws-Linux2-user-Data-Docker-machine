@@ -1,4 +1,5 @@
-# aws-Linux2-user-Data-Docker-machine
+# Amazon Linux 2 AMI image:ami-039609244d2810a6b
+-Userdata-Docker test machine
 User data for aws ec2 Docker ready
 
 
